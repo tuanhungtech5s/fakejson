@@ -1,8 +1,11 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Iphone 6",
+      "price":500m
+      "description":"Mua iphone 6 ngay hôm nay KM 50%",
+      "status":true
     }
   ],
   "profile": {
