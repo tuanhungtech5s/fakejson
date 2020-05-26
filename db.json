@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Iphone 6",
-      "price":500m
+      "price":500",
       "description":"Mua iphone 6 ngay hôm nay KM 50%",
       "status":true
     }
